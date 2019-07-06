@@ -6,22 +6,22 @@
 						<div class="logo"><a href="#">avision</a></div>
 						<nav class="main_nav">
 							<ul>
-								<li class="active"><a href="index.html">Home</a></li>
-								<li><a href="#">Fashion</a></li>
-								<li><a href="#">Gadgets</a></li>
+								<li class="active"><a href="/">Home</a></li>
+								<li><a href="fashion">Fashion</a></li>
+								<li><a href="gadg">Gadgets</a></li>
 								<li><a href="#">Lifestyle</a></li>
 								<li><a href="#">Video</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="kontak">Contact</a></li>
 							</ul>
 						</nav>
 						<div class="search_container ml-auto">
 							<div class="weather">
 								<div class="temperature">+10°</div>
-								<img class="weather_icon" src="images/cloud.png" alt="">
+								<img class="weather_icon" src="/assets/front/images/cloud.png" alt="">
 							</div>
 							<form action="#">
 								<input type="search" class="header_search_input" required="required" placeholder="Type to Search...">
-								<img class="header_search_icon" src="images/search.png" alt="">
+								<img class="header_search_icon" src="/assets/front/images/search.png" alt="">
 							</form>
 							
 						</div>
@@ -42,17 +42,17 @@
 		<div class="search">
 			<form action="#">
 				<input type="search" class="header_search_input menu_mm" required="required" placeholder="Type to Search...">
-				<img class="header_search_icon menu_mm" src="images/search_2.png" alt="">
+				<img class="header_search_icon menu_mm" src="/assets/front/images/search_2.png" alt="">
 			</form>
 		</div>
 		<nav class="menu_nav">
 			<ul class="menu_mm">
-				<li class="menu_mm"><a href="index.html">home</a></li>
+				<li class="menu_mm"><a href="/">home</a></li>
 				<li class="menu_mm"><a href="#">Fashion</a></li>
 				<li class="menu_mm"><a href="#">Gadgets</a></li>
 				<li class="menu_mm"><a href="#">Lifestyle</a></li>
 				<li class="menu_mm"><a href="#">Video</a></li>
-				<li class="menu_mm"><a href="contact.html">Contact</a></li>
+				<li class="menu_mm"><a href="kontak">Contact</a></li>
 			</ul>
 		</nav>
 	</div>
