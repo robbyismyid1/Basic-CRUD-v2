@@ -1,0 +1,9 @@
+<script src="/assets/front/js/jquery-3.2.1.min.js"></script>
+<script src="/assets/front/styles/bootstrap4/popper.js"></script>
+<script src="/assets/front/styles/bootstrap4/bootstrap.min.js"></script>
+<script src="/assets/front/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="/assets/front/plugins/jquery.mb.YTPlayer-3.1.12/jquery.mb.YTPlayer.js"></script>
+<script src="/assets/front/plugins/easing/easing.js"></script>
+<script src="/assets/front/plugins/masonry/masonry.js"></script>
+<script src="/assets/front/plugins/masonry/images_loaded.js"></script>
+<script src="/assets/front/js/custom.js"></script>
